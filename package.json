@@ -1,0 +1,20 @@
+{
+  "name": "@antstudiocz/critical-css-webpack-plugin",
+  "version": "1.0.1",
+  "description": "Webpack plugin for generate critical css from object of url addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antstudiocz/critical-css-webpack-plugin"
+  },
+  "author": "David Balík",
+  "license": "MIT",
+  "dependencies": {
+    "penthouse": "^2.2.0",
+    "webalize": "^0.1.0",
+    "webpack": "^4.30.0"
+  }
+}
